@@ -4,10 +4,10 @@
 
 <a>Click Here To See Pythonlife Training Schedules</a>
   
-  <h2> Call Us : +91-989898989</h2>
+  <h2> Call Us : +1-989898989</h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-<p> THANKS FOR CHOOSING DevSecOps with AWS And AI !!!!!</p>
+  <h3> Our Ofc Location : Delray beach, Florida </h3>
+<p> THANKS YOU FOR CHOOSING DevSecOps with AWS And AI !!!!!</p>
 <marquee>!!!!Learn Here and Get a good knowledge </marquee>
 
 
