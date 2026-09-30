@@ -7,8 +7,8 @@
   <h2> Call Us : +91-989898989</h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-<p> THANKS FOR CHOOSING DevSecOps with AWS &&&&& AI !!!!!</p>
-<marquee>!!!!Learn Here and Lead any where!!!!!!!!! </marquee>
+<p> THANKS FOR CHOOSING DevSecOps with AWS And AI !!!!!</p>
+<marquee>!!!!Learn Here and Get a good knowledge </marquee>
 
 
 </body>
